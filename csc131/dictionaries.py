@@ -21,7 +21,7 @@ def main() -> int:
     print(simple_initialized_list)
     my_comprehension = {x: x**2 for x in range(5)}   #Referred to as a dict comprehension
     print(my_comprehension)
-
+    s = "little,".translate()
     return 0
 
 
