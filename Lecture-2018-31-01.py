@@ -21,7 +21,7 @@ def main() -> int:
     print(f)
 
 
-# Usse a dictionary to remember things that we can remove ineffieny so that we dont call for the same values we already
+# Use a dictionary to remember things that we can remove inefficeny so that we dont call for the same values we already
 # Have completed
 
 
